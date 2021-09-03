@@ -62,9 +62,9 @@ Use mainstream language python
 
 ### Project display
 
-![](/Users/linuxufaxin/Desktop/截屏2021-09-03 下午6.33.36.png)
+<img width="1680" alt="截屏2021-09-03 下午6 33 28" src="https://user-images.githubusercontent.com/83543818/131992277-caedd764-3ca3-473e-9aa0-dfff9ee02156.png">
+<img width="1680" alt="截屏2021-09-03 下午6 33 36" src="https://user-images.githubusercontent.com/83543818/131992306-f8d6a718-0ae0-45f8-8a87-276320c567b8.png">
 
-![](/Users/linuxufaxin/Desktop/截屏2021-09-03 下午6.33.28.png)
 
 ### Developer email
 
