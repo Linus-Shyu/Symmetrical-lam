@@ -29,7 +29,7 @@ os
 
 ### Participate in development
 
-Xu Faxin(Linuxu5610)
+Linus Shyu
 
 ### Instructions
 
