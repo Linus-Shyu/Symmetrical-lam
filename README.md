@@ -1,4 +1,5 @@
-# Symmetrical-lam# Automated mouse click script description document
+# Symmetrical-lam
+# Automated mouse click script description document
 
 ### project instruction
 
